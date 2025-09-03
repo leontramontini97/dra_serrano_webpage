@@ -1,5 +1,5 @@
 /**
- * Dr. Carlos Oliveros - Urólogo Especialista
+ * Dra. Clara Inés Ortiz Serrano - Dermatóloga Especialista
  * Main JavaScript File
  */
 

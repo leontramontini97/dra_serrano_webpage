@@ -1,28 +1,51 @@
-# Dr. Carlos Oliveros - Urólogo Especialista
+# Dra. Clara Inés Ortiz Serrano - Dermatóloga Especialista
 
-Sitio web profesional para el Dr. Carlos Oliveros, especialista en urología.
+Sitio web profesional para la Dra. Clara Inés Ortiz Serrano, especialista en dermatología general y pediátrica.
 
 ## Descripción
 
-Este sitio web presenta los servicios médicos especializados del Dr. Carlos Oliveros, enfocado en:
+Este sitio web presenta los servicios médicos especializados de la Dra. Clara Inés Ortiz Serrano, enfocado en:
 
-- **Diagnóstico y tratamiento de patologías urológicas**
-- **Cistoscopia Transuretral** - Evaluación directa de vejiga y uretra
-- **Cirugía Mínimamente Invasiva** - Procedimientos avanzados
-- **Diagnóstico Temprano** - Detección oportuna de patologías
-- **Atención Personalizada** - Cuidado adaptado a cada paciente
+- **Dermatología General** - Diagnóstico y tratamiento integral de patologías de la piel
+- **Dermatología Pediátrica** - Atención especializada para niños con afecciones cutáneas
+- **Tratamientos con Láser** - Procedimientos avanzados con tecnología láser
+- **Diagnóstico de Tumores Cutáneos** - Detección temprana y tratamiento especializado
+- **Atención Integral** - Tratamiento de acné, rosácea, dermatitis atópica y de contacto
 
 ## Información de Contacto
 
-- **Dirección**: Centro Médico Libertadores, Calle 16 # 0E-15 Cons. 206, Cúcuta - Colombia
-- **WhatsApp**: [+57 304 296 9527](https://wa.me/573008786713)
+- **Dirección**: Av 9 # 116-20, Cons. 418, Bogotá - Colombia
+- **WhatsApp**: [+57 315 792 36 46](https://wa.me/573157923646)
+- **Teléfono**: 601 215 2300 Ext 1418
+- **Email**: ortizclaraines@hotmail.com
 - **Google Maps**: [Ver ubicación](https://maps.google.com)
 
-## Filosofía Médica
+## Experiencia y Formación
 
-> "Cada consulta es única, como tú"
+> "Cuidamos tu piel con experiencia y dedicación"
 
-El Dr. Oliveros se especializa en la atención personalizada y tratamiento integral de patologías urológicas, utilizando las técnicas más avanzadas para garantizar el mejor cuidado para sus pacientes.
+La Dra. Clara Inés Ortiz Serrano cuenta con más de 25 años de experiencia en práctica privada. Graduada de la Universidad del Rosario con especialización en Dermatología de la Universidad El Bosque, se especializa en el cuidado integral de la piel en pacientes de todas las edades.
+
+### Especialidades
+- Dermatología General
+- Dermatología Pediátrica  
+- Tratamientos con Láser
+- Diagnóstico de Tumores Cutáneos
+- Tratamiento de Acné
+- Tratamiento de Rosácea
+- Dermatitis Atópica
+- Dermatitis de Contacto
+
+### Seguros Médicos
+- Allianz
+- Colmédica
+- Colsanitas
+- Ecopetrol
+- Liberty
+
+### Idiomas
+- Español
+- Inglés
 
 ## Estructura del Sitio
 
@@ -32,8 +55,8 @@ El Dr. Oliveros se especializa en la atención personalizada y tratamiento integ
 
 ### Secciones
 - **Hero** - Mensaje principal y llamada a la acción
-- **Especialidades** - Servicios médicos especializados
-- **Acerca del Dr. Oliveros** - Información profesional detallada
+- **Tratamientos** - Servicios médicos especializados en dermatología
+- **Acerca de la Dra. Ortiz** - Información profesional detallada
 - **Contacto** - Información de contacto y formulario de citas
 
 ## Tecnologías Utilizadas
@@ -61,10 +84,10 @@ El Dr. Oliveros se especializa en la atención personalizada y tratamiento integ
 - Meta tags apropiados
 - Estructura de encabezados jerárquica
 - URLs amigables
-- Contenido optimizado para búsquedas médicas
+- Contenido optimizado para búsquedas médicas dermatológicas
 
 ### Colores de Marca
-El sitio utiliza una paleta de colores apropiada para el sector médico urológico:
+El sitio utiliza una paleta de colores apropiada para el sector médico dermatológico:
 - **Primary**: `#1976d2` - Azul médico (profesionalismo y confianza)
 - **Secondary**: `#bbdefb` - Azul claro (calidez y cuidado)
 - **Accent**: `#0d47a1` - Azul profundo (seriedad y experiencia)
@@ -72,17 +95,18 @@ El sitio utiliza una paleta de colores apropiada para el sector médico urológi
 ## Estructura de Archivos
 
 ```
-oliveros_webpage/
+clara_ortiz_webpage/
 ├── index.html              # Página principal
 ├── privacy-policy.html     # Política de privacidad
 ├── README.md              # Documentación del proyecto
+├── vercel.json            # Configuración de despliegue
 ├── css/
 │   └── styles.css         # Estilos principales
 ├── js/
 │   └── script.js          # Funcionalidad JavaScript
 └── images/
     ├── hero-bg.jpg        # Imagen de fondo del hero
-    └── oliveros_logo.png  # Logo del Dr. Oliveros
+    └── ortiz_logo.png     # Logo de la Dra. Ortiz
 ```
 
 ## Funcionalidades Principales
@@ -100,7 +124,8 @@ oliveros_webpage/
 ### Información Médica Detallada
 - Especialidades claramente definidas
 - Información profesional completa
-- Enfoque en atención personalizada y diagnóstico temprano
+- Enfoque en dermatología general y pediátrica
+- Tratamientos especializados con láser
 
 ## Mantenimiento
 
@@ -117,7 +142,7 @@ oliveros_webpage/
 ## Despliegue
 
 Este sitio está preparado para ser desplegado en plataformas como:
-- Vercel
+- Vercel (configurado con vercel.json)
 - Netlify
 - GitHub Pages
 - Cualquier servidor web estático
@@ -128,4 +153,4 @@ Para consultas técnicas sobre el sitio web, por favor contacte al equipo de des
 
 ---
 
-**© 2024 Dr. Carlos Oliveros. Todos los derechos reservados.** 
+**© 2024 Dra. Clara Inés Ortiz Serrano. Todos los derechos reservados.** 
