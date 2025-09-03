@@ -281,8 +281,9 @@ ul, ol {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 119, 182, 0.8), rgba(2, 62, 138, 0.9)), url('../images/hero-bg.jpg');
-    background-size: cover;
+    background: linear-gradient(rgba(0, 119, 182, 0.8), rgba(2, 62, 138, 0.9)), url('../images/ortiz_logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
     color: white;
     padding: var(--spacing-xxl) 0;
