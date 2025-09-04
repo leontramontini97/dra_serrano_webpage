@@ -281,9 +281,8 @@ ul, ol {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 119, 182, 0.8), rgba(2, 62, 138, 0.9)), url('../images/ortiz_logo.png');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.2)), url('../images/white-modern.jpg');
+    background-size: cover;
     background-position: center;
     color: white;
     padding: var(--spacing-xxl) 0;
@@ -293,6 +292,24 @@ ul, ol {
 .hero-content {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.hero-logo {
+    margin-bottom: var(--spacing-lg);
+}
+
+.hero-logo-image {
+    max-width: 200px;
+    height: auto;
+    filter: brightness(0) invert(1);
+    margin: 0 auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .hero-logo-image {
+        max-width: 150px;
+    }
 }
 
 .hero h2 {
