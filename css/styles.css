@@ -299,7 +299,8 @@ ul, ol {
 }
 
 .hero-logo-image {
-    max-width: 200px;
+    max-width: 120px;
+    width: 120px;
     height: auto;
     filter: brightness(0) invert(1);
     margin: 0 auto;
@@ -308,19 +309,21 @@ ul, ol {
 
 @media (max-width: 768px) {
     .hero-logo-image {
-        max-width: 150px;
+        max-width: 100px;
+        width: 100px;
     }
 }
 
 .hero h2 {
     font-size: 2.5rem;
     margin-bottom: var(--spacing-md);
-    color: white;
+    color: var(--accent-color);
 }
 
 .hero p {
     font-size: 1.25rem;
     margin-bottom: var(--spacing-xl);
+    color: var(--text-color);
     opacity: 0.9;
 }
 
